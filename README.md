@@ -14,6 +14,11 @@ sudo apt install proxychains4 tor
 curl -fsSL https://deno.land/install.sh | sh
 ```
 
+## replace the url target
+```
+const url = "https://servicespub.prod.api.aws.grupokabum.com.br/ecommerce-rma/v1/genesys/conversation";
+```
+
 
 ### Loop request: 
 ``` 
