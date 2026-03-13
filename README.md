@@ -4,7 +4,15 @@
 - Emulate the browser using some specific headers 
 
 
-```sudo apt install proxychains4 tor ```
+## Instalation on ubuntu
+
+```bash
+sudo apt install proxychains4 tor ```
+
+```bash 
+curl -fsSL https://deno.land/install.sh | sh
+```
+
 
 ### Loop request: 
 ``` 
