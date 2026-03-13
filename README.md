@@ -7,7 +7,8 @@
 ## Instalation on ubuntu
 
 ```bash
-sudo apt install proxychains4 tor ```
+sudo apt install proxychains4 tor
+```
 
 ```bash 
 curl -fsSL https://deno.land/install.sh | sh
